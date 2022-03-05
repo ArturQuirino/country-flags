@@ -1,6 +1,6 @@
 import React from 'react';
 import { Country } from '../../../models/Country';
-import styles from './Country-card.module.css';
+import styles from './CountryCard.module.css';
 
 const CountryCard = ({ country }: { country: Country }) => {
   return (
