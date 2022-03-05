@@ -1,6 +1,6 @@
 .header {
-  background-color: #2b3743;
-  color: #e2e6eb;
+  background-color: var(--darkModeElement);
+  color: var(--darkModeText);
   height: 64px;
   display: flex;
   flex-direction: row;

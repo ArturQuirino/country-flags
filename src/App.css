@@ -10,4 +10,5 @@
 
 .App {
   background-color: var(--darkModeBackground);
+  color: var(--darkModeText);
 }
