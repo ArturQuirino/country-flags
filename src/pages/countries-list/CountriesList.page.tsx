@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { getAllCountries } from '../../api/CountriesApi';
 import { Country } from '../../models/Country';
-import CountryCard from './country-card/Country-card';
+import CountryCard from './CountryCard/CountryCard';
 import styles from './Countries-list.page.module.css';
 
 function CountriesListPage() {
